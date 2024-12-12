@@ -12,3 +12,20 @@ Helpful LINKs: {
 		Welcome to ft_linear_regression project.
 
 	In this file information for how to researched this project.
+
+
+Program usage {
+	Create virtual environment for project {
+		python3 -m venv ./myenv
+	}
+
+	Activate virtual environment {
+		source ./myenv/bin/activate
+	}
+
+	Install requirements from requirements.txt {
+		pip install -r requirements.txt
+	}
+
+	
+}
